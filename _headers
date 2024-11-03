@@ -1,2 +1,8 @@
-/sitemap.xml
+/sitemap-article1.xml
+  Content-Type: application/xml
+/sitemap-article2.xml
+  Content-Type: application/xml
+/sitemap-article3.xml
+  Content-Type: application/xml
+/sitemap-article4.xml
   Content-Type: application/xml
