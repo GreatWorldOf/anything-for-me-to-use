@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://read-and-learn.netlify.app/sitemap.xml
